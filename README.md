@@ -14,13 +14,13 @@ This project implements a machine learning pipeline to predict the severity of c
 
 ## Requirements
 
-* Python 3.x
+* Python
 * Pandas
 * Numpy
 * Scikit-learn
 * Matplotlib
 * Seaborn
-* Google Colab (recommended)
+* Google Colab
 
 ---
 
